@@ -1,6 +1,7 @@
 # SQL-Database
-## test
-We were required to design and implement a database for a given situation. 
-We had to derive PKs and FKs from the information provided.
-Inserted all valid data into my tables to test if my design was working.
+
+## Task Description
+We were required to design and implement a database for a provided scenario. 
+We had to derive PKs and FKs from the information provided,
+Inserted all valid data into the tables to test if our designs worked correctly.
 Select queries to display inserted data.
